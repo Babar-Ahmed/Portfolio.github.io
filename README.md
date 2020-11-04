@@ -5,7 +5,7 @@
 <b>Portfolio website in Bootstrap4 its the complete personal website you can add your personal Data Educaiton
 Skills and Work</b>
 
-## Fucaitonality 
+## Functionality
 <b>
 <li>Resume</li>
 <li>Education</li>
@@ -27,5 +27,7 @@ Skills and Work</b>
 ## Clone Repo
 https://github.com/Babar-Ahmed/Portfolio.github.io.git
 <img src="img/repo.png">
+<br>
+
 <b>click repo then click code and selecte the url of the repo
 goto cmd command propmt type git clone "past here repo url"</b>
